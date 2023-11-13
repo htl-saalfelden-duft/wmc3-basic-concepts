@@ -17,15 +17,19 @@ const pupils = [
     "Pichler Leon",
     "Redzic Ernest",
     "Winkler Timo"
-]
+]   
 
-const getRandom = () => {
-    const min = 1, max = pupils.length
-    const index =  Math.floor(Math.random() * (max - min + 1) + min) - 1
+const getRandom = (min=1, max = 20) => {
+    const rand =  Math.floor(Math.random() * (max - min + 1) + min) - 1
+    return rand
+}
+
+const getRandomPupil = () => {
+    const index = getRandom(1, pupils.length)
 
     console.log(`${index}: ${pupils[index]}`)
 
     return pupils[index]
 }
 
-export { getRandom }
+export { getRandom, getRandomPupil }
