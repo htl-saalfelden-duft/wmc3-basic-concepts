@@ -1,0 +1,82 @@
+[
+    { 
+        "name": "Aberger Jonas",
+        "prefer": false,
+        "must": false
+    },
+    { 
+        "name": "Eder Jonas",
+        "prefer": false,
+        "must": false
+    },
+    { 
+        "name": "Ellmauthaler Philip",
+        "prefer": false,
+        "must": false
+    },
+    { 
+        "name": "Ellmer Johannes",
+        "prefer": false,
+        "must": false
+    },
+    { 
+        "name": "Faritsch Dominik",
+        "prefer": false,
+        "must": false
+    },
+    { 
+        "name": "Hafner Florian",
+        "prefer": false,
+        "must": false
+    },
+    { 
+        "name": "Haslinger Fabian",
+        "prefer": false,
+        "must": false
+    },
+    { 
+        "name": "Hirzenberger Tobias",
+        "prefer": false,
+        "must": true
+    },
+    { 
+        "name": "Isma Aldin",
+        "prefer": true,
+        "must": false
+    },
+    { 
+        "name": "Julardzija Amar",
+        "prefer": false,
+        "must": false
+    },        
+    { 
+        "name": "König Eric",
+        "prefer": false,
+        "must": false
+    },
+    { 
+        "name": "Krishan Raj",
+        "prefer": false,
+        "must": false
+    },
+    { 
+        "name": "Magos Christos",
+        "prefer": false,
+        "must": false
+    },
+    { 
+        "name": "Pichler Leon",
+        "prefer": false,
+        "must": false
+    },    
+    { 
+        "name": "Redzic Ernest",
+        "prefer": true,
+        "must": false
+    }, 
+    { 
+        "name": "Winkler Timo",
+        "prefer": false,
+        "must": false
+    }
+]

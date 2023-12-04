@@ -16,4 +16,5 @@ body {
     text-align: center;
     font-size: 50px;
     width: 12em;
+    user-select: none;
 }
