@@ -1,4 +1,4 @@
 # React States
 
-* Erstelle eine State den du im jsx ausgiebst.
+* Erstelle einen State, den du mittels jsx ausgibst.
 * Verändere den State in einer Funktion, die von einem Event getriggert wird. 

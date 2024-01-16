@@ -37,7 +37,7 @@
     { 
         "name": "Hirzenberger Tobias",
         "prefer": false,
-        "must": true
+        "must": false
     },
     { 
         "name": "Isma Aldin",
